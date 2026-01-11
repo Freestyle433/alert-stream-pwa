@@ -2,3 +2,6 @@
 base = "alert-stream-a0d3d26e"
 command = "npm run build"
 publish = "dist"
+
+[build.environment]
+NODE_VERSION = "18"
